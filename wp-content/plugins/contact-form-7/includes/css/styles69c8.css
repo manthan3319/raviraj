@@ -158,6 +158,9 @@ form.submitting .wpcf7-spinner {
 
 .wpcf7 input[type="url"],
 .wpcf7 input[type="email"],
+.wpcf7 input[type="qty"],
+.wpcf7 input[type="select"],
+.wpcf7 input[type="additional comment"],
 .wpcf7 input[type="tel"] {
 	direction: ltr;
 }
